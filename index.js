@@ -109,8 +109,8 @@ client.on("messageCreate", (message) => {
     "sikim",
     "sikeyim",
     "aq",
-    "mk"
-       
+    "mk",
+    "pezevenk"
   ]
   
 if(kufurler.some(alo => message.content.toLowerCase().includes(alo))) {
