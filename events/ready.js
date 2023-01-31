@@ -26,5 +26,5 @@ module.exports = async (client) => {
   }
 
     console.log(`${client.user.tag} Aktif!`);
-    client.user.setActivity("Raven Slashlı Moderasyon Botu!")
+    client.user.setActivity("Yazılım Koloniği Moderasyon Botu!")
 };
